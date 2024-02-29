@@ -24,7 +24,6 @@ CREATE TABLE restaurants (
     average_rating REAL,
     good_for_kids BOOLEAN
 );
-
 ```
 #### reviews
 ```
@@ -37,7 +36,7 @@ CREATE TABLE reviews (
 );
 ```
 ### link to practice CSV data
-[restaurant](data/restaurants.csv)
+- [restaurant](data/restaurants.csv)
 ### SQLite code to import the practice CSV data files into the tables
 ```
 .mode csv
@@ -47,7 +46,7 @@ CREATE TABLE reviews (
 > Replace the terms in square brackets with the real values (and delete the square brackets).
 #### 1. Find all cheap restaurants in a particular neighborhood (pick any neighborhood as an example).
 ```
-SELECT * FROM restaurants WHERE price_tier = 'cheap' AND neighborhood = 'Picked Neighborhood';
+SELECT * FROM restaurants WHERE price_tier = 'cheap' AND neighborhood = '[Picked Neighborhood]';
 ```
 #### 2. Find all restaurants in a particular genre (pick any genre as an example) with 3 stars or more, ordered by the number of stars in descending order.
 ```
@@ -95,8 +94,8 @@ CREATE TABLE posts (
 );
 ```
 ### link to practice CSV data
-[users](data/users.csv)
-[posts](data/posts.csv)
+- [users](data/users.csv)
+- [posts](data/posts.csv)
 ### SQLite code to import the practice CSV data files into the tables
 ```
 .mode csv
