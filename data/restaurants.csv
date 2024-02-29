@@ -1,0 +1,1001 @@
+restaurant_id,name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,The Cozy Corner,Thai,expensive,Park Slope,7:18,3.8,false
+2,The Velvet Fork,American,medium,Hell's Kitchen,1:05,1.1,false
+3,Mango Tango,Mexican,expensive,Chelsea,19:16,0.7,false
+4,The Hungry Hippo,French,expensive,Williamsburg,7:15,2.1,true
+5,Whisk & Ladle,French,medium,Greenpoint,5:28,4.7,false
+6,Saffron Delight,Greek,cheap,Park Slope,5:28,1.5,false
+7,Whisk & Ladle,Greek,cheap,Williamsburg,9:34,2.2,true
+8,The Hungry Hippo,Mediterranean,expensive,Williamsburg,1:06,1.5,false
+9,Whisk & Ladle,Thai,medium,Astoria,1:58,2.5,true
+10,Mango Tango,Mediterranean,expensive,Harlem,23:50,1.2,false
+11,Saffron Delight,Japanese,medium,Astoria,22:42,2.3,true
+12,The Cozy Corner,Japanese,cheap,Chelsea,21:44,2.9,true
+13,Flamingo Bistro,Italian,expensive,Chelsea,23:50,3.5,true
+14,Crispy Crust Pizzeria,Italian,expensive,Jackson Heights,4:26,3.3,false
+15,The Velvet Fork,Italian,cheap,Park Slope,21:37,0.2,false
+16,The Cozy Corner,Indian,expensive,Hell's Kitchen,6:31,3.1,true
+17,The Hungry Hippo,Italian,cheap,Hell's Kitchen,18:21,4.9,false
+18,Flamingo Bistro,Mediterranean,cheap,Park Slope,11:55,3.1,false
+19,The Hungry Hippo,Greek,medium,Chelsea,13:42,1.9,false
+20,Flamingo Bistro,Mediterranean,expensive,Astoria,11:11,3.0,true
+21,Sizzle & Spice,Thai,expensive,Jackson Heights,2:03,3.2,true
+22,Sizzle & Spice,French,expensive,Greenpoint,17:53,1.4,false
+23,The Cozy Corner,Greek,cheap,Astoria,14:30,3.6,true
+24,Whisk & Ladle,Japanese,cheap,Upper East Side,18:36,2.1,false
+25,Flamingo Bistro,Indian,cheap,Williamsburg,19:38,3.0,true
+26,The Cozy Corner,Mediterranean,cheap,Harlem,5:39,2.0,true
+27,Ocean Blue Grill,Italian,medium,Williamsburg,15:38,4.2,true
+28,The Velvet Fork,Mexican,expensive,Williamsburg,21:39,0.9,false
+29,The Velvet Fork,French,expensive,Jackson Heights,20:26,4.8,true
+30,Crispy Crust Pizzeria,Mexican,cheap,Jackson Heights,0:59,1.7,false
+31,The Cozy Corner,Mexican,cheap,Jackson Heights,6:31,3.1,false
+32,The Cozy Corner,Italian,medium,Park Slope,2:49,0.4,true
+33,Ocean Blue Grill,Greek,medium,Chelsea,8:53,3.9,true
+34,Crispy Crust Pizzeria,American,cheap,Chelsea,11:45,2.5,true
+35,Sizzle & Spice,Mediterranean,expensive,Williamsburg,16:02,3.3,false
+36,Whisk & Ladle,Thai,cheap,Chelsea,21:30,2.1,false
+37,Mango Tango,Japanese,cheap,Bushwick,8:30,5.0,true
+38,The Cozy Corner,Indian,medium,Harlem,17:31,1.4,false
+39,The Velvet Fork,Italian,medium,Park Slope,17:12,3.1,true
+40,The Velvet Fork,French,cheap,Harlem,21:17,0.9,true
+41,Sizzle & Spice,Japanese,medium,Bushwick,1:53,4.2,false
+42,The Hungry Hippo,Greek,expensive,Hell's Kitchen,14:22,2.0,false
+43,Ocean Blue Grill,Indian,expensive,Williamsburg,17:23,0.9,true
+44,The Cozy Corner,Thai,cheap,Upper East Side,6:53,0.8,false
+45,Ocean Blue Grill,American,medium,Greenpoint,15:05,3.6,true
+46,Flamingo Bistro,Japanese,cheap,Greenpoint,18:28,1.6,false
+47,Flamingo Bistro,Mediterranean,expensive,Greenpoint,22:34,3.3,false
+48,The Hungry Hippo,French,cheap,Greenpoint,10:15,3.7,true
+49,Crispy Crust Pizzeria,Mediterranean,cheap,Park Slope,16:20,3.3,true
+50,The Velvet Fork,Greek,expensive,Williamsburg,14:09,2.0,true
+51,Sizzle & Spice,Italian,cheap,Jackson Heights,12:47,1.8,true
+52,Flamingo Bistro,French,cheap,Chelsea,2:31,1.8,false
+53,The Hungry Hippo,Greek,medium,Williamsburg,18:27,2.1,true
+54,Ocean Blue Grill,Italian,medium,Upper East Side,10:34,4.6,false
+55,Crispy Crust Pizzeria,American,expensive,Bushwick,10:06,2.6,false
+56,Crispy Crust Pizzeria,Indian,cheap,Upper East Side,2:36,0.7,false
+57,Flamingo Bistro,Mediterranean,expensive,Park Slope,13:07,4.9,true
+58,The Hungry Hippo,Indian,expensive,Chelsea,6:23,2.5,false
+59,Sizzle & Spice,Japanese,medium,Astoria,7:15,0.7,true
+60,Whisk & Ladle,Mexican,expensive,Astoria,9:31,4.8,false
+61,Flamingo Bistro,Japanese,expensive,Chelsea,11:36,0.6,true
+62,Mango Tango,Italian,cheap,Greenpoint,5:17,2.5,true
+63,The Velvet Fork,Thai,expensive,Astoria,0:41,3.9,true
+64,Saffron Delight,Mediterranean,cheap,Jackson Heights,23:58,1.6,true
+65,Sizzle & Spice,Thai,cheap,Hell's Kitchen,15:18,2.6,false
+66,The Velvet Fork,Mexican,medium,Williamsburg,14:02,0.1,true
+67,Saffron Delight,Italian,medium,Astoria,21:25,4.0,false
+68,Ocean Blue Grill,Greek,expensive,Greenpoint,19:13,1.7,false
+69,The Cozy Corner,Mediterranean,medium,Jackson Heights,8:44,3.3,false
+70,The Hungry Hippo,Mexican,cheap,Greenpoint,23:09,4.6,false
+71,Sizzle & Spice,Italian,cheap,Williamsburg,8:49,2.1,false
+72,Ocean Blue Grill,American,cheap,Jackson Heights,4:23,0.7,false
+73,Sizzle & Spice,French,cheap,Chelsea,23:46,3.8,true
+74,Saffron Delight,Italian,expensive,Hell's Kitchen,21:29,2.8,false
+75,The Cozy Corner,French,expensive,Bushwick,22:15,0.4,false
+76,Saffron Delight,Thai,expensive,Astoria,23:15,3.5,false
+77,Flamingo Bistro,American,expensive,Park Slope,9:22,1.5,false
+78,The Cozy Corner,Chinese,medium,Astoria,21:17,1.6,true
+79,The Velvet Fork,American,expensive,Park Slope,2:52,1.7,true
+80,Ocean Blue Grill,Italian,medium,Hell's Kitchen,17:41,2.4,true
+81,The Cozy Corner,Indian,medium,Greenpoint,22:07,1.8,true
+82,The Cozy Corner,Mexican,medium,Upper East Side,4:57,3.3,false
+83,Flamingo Bistro,Japanese,expensive,Bushwick,0:13,0.6,false
+84,Ocean Blue Grill,Mexican,medium,Bushwick,5:21,1.6,false
+85,Whisk & Ladle,Greek,cheap,Jackson Heights,7:32,1.4,true
+86,Saffron Delight,Indian,expensive,Greenpoint,9:52,4.6,true
+87,Flamingo Bistro,Greek,cheap,Greenpoint,6:46,3.4,false
+88,Mango Tango,Indian,medium,Harlem,2:21,1.1,false
+89,Whisk & Ladle,Chinese,expensive,Chelsea,20:56,4.9,false
+90,The Velvet Fork,Chinese,cheap,Astoria,16:08,3.9,true
+91,Sizzle & Spice,American,medium,Chelsea,6:40,1.8,false
+92,The Hungry Hippo,Italian,expensive,Williamsburg,0:07,3.2,true
+93,Flamingo Bistro,Mexican,cheap,Upper East Side,16:28,1.7,true
+94,Mango Tango,American,cheap,Astoria,17:45,1.1,true
+95,Crispy Crust Pizzeria,Greek,medium,Astoria,8:43,2.4,true
+96,Saffron Delight,French,medium,Williamsburg,6:55,4.4,true
+97,The Hungry Hippo,Mexican,expensive,Williamsburg,19:31,4.5,false
+98,The Cozy Corner,Thai,medium,Park Slope,19:03,0.8,true
+99,Whisk & Ladle,Chinese,cheap,Harlem,0:35,1.1,true
+100,The Hungry Hippo,Chinese,medium,Upper East Side,14:36,4.4,false
+101,Saffron Delight,Japanese,medium,Bushwick,2:02,1.8,true
+102,Saffron Delight,Mexican,cheap,Williamsburg,9:33,0.9,false
+103,The Hungry Hippo,American,expensive,Chelsea,3:32,0.2,false
+104,Flamingo Bistro,Thai,expensive,Astoria,16:38,0.7,true
+105,The Velvet Fork,Mediterranean,expensive,Williamsburg,5:58,2.9,true
+106,The Cozy Corner,American,medium,Harlem,10:39,0.3,true
+107,The Hungry Hippo,Mediterranean,cheap,Park Slope,17:49,3.4,true
+108,Whisk & Ladle,American,medium,Jackson Heights,12:43,1.7,true
+109,Whisk & Ladle,Mexican,cheap,Upper East Side,13:30,2.4,true
+110,Crispy Crust Pizzeria,American,expensive,Jackson Heights,0:12,1.0,false
+111,Mango Tango,Italian,medium,Hell's Kitchen,11:51,3.9,false
+112,Mango Tango,Chinese,expensive,Harlem,13:17,2.6,false
+113,Crispy Crust Pizzeria,American,expensive,Williamsburg,0:15,0.5,true
+114,Ocean Blue Grill,Italian,cheap,Chelsea,18:15,0.6,true
+115,Ocean Blue Grill,Greek,medium,Bushwick,6:05,0.9,false
+116,Sizzle & Spice,French,expensive,Astoria,6:46,4.4,true
+117,Mango Tango,American,expensive,Hell's Kitchen,10:16,1.1,true
+118,The Hungry Hippo,Mexican,cheap,Harlem,6:50,4.7,true
+119,Whisk & Ladle,French,cheap,Upper East Side,19:22,4.9,false
+120,The Cozy Corner,Mediterranean,medium,Astoria,4:33,0.9,true
+121,The Cozy Corner,Mexican,cheap,Bushwick,18:57,4.8,false
+122,Ocean Blue Grill,Mediterranean,medium,Upper East Side,8:37,3.4,true
+123,Crispy Crust Pizzeria,Chinese,expensive,Upper East Side,14:47,0.9,false
+124,The Velvet Fork,Thai,cheap,Williamsburg,11:15,2.8,false
+125,Mango Tango,Thai,medium,Astoria,20:10,4.9,true
+126,Crispy Crust Pizzeria,Italian,medium,Astoria,20:14,2.8,false
+127,Flamingo Bistro,French,cheap,Greenpoint,7:53,0.8,true
+128,Saffron Delight,Japanese,medium,Bushwick,18:08,1.2,true
+129,Mango Tango,Thai,cheap,Williamsburg,6:29,1.9,false
+130,The Velvet Fork,French,cheap,Upper East Side,11:42,1.9,false
+131,Mango Tango,Mediterranean,medium,Williamsburg,1:52,1.2,true
+132,Mango Tango,Italian,cheap,Astoria,9:46,2.2,false
+133,Whisk & Ladle,Italian,cheap,Hell's Kitchen,8:27,0.1,false
+134,Flamingo Bistro,American,expensive,Greenpoint,1:44,0.6,false
+135,Ocean Blue Grill,Mediterranean,medium,Astoria,16:22,0.1,true
+136,The Velvet Fork,Mediterranean,medium,Astoria,4:49,1.8,false
+137,The Cozy Corner,Mexican,expensive,Upper East Side,1:26,4.0,true
+138,Ocean Blue Grill,Indian,cheap,Greenpoint,17:22,0.9,true
+139,The Cozy Corner,Chinese,cheap,Upper East Side,9:33,1.5,true
+140,The Velvet Fork,Mexican,medium,Park Slope,14:33,4.7,false
+141,The Hungry Hippo,Japanese,medium,Chelsea,3:51,3.1,false
+142,Ocean Blue Grill,Mediterranean,expensive,Park Slope,21:12,2.3,true
+143,Whisk & Ladle,Mediterranean,medium,Greenpoint,4:08,4.7,false
+144,The Cozy Corner,Greek,expensive,Bushwick,10:22,1.5,false
+145,Flamingo Bistro,Indian,medium,Chelsea,0:12,4.9,false
+146,Ocean Blue Grill,Chinese,cheap,Jackson Heights,8:59,4.2,true
+147,Saffron Delight,Mediterranean,cheap,Jackson Heights,1:28,2.1,false
+148,Whisk & Ladle,American,medium,Chelsea,6:18,3.9,true
+149,The Hungry Hippo,Mexican,medium,Hell's Kitchen,8:08,3.1,true
+150,Crispy Crust Pizzeria,Greek,expensive,Upper East Side,4:09,0.3,false
+151,Ocean Blue Grill,Mediterranean,medium,Upper East Side,2:07,2.6,false
+152,The Cozy Corner,Japanese,expensive,Greenpoint,15:59,4.8,false
+153,Saffron Delight,American,cheap,Harlem,2:06,4.1,false
+154,Flamingo Bistro,French,medium,Bushwick,21:30,0.8,true
+155,The Hungry Hippo,Mediterranean,expensive,Harlem,0:05,0.7,false
+156,The Velvet Fork,French,cheap,Williamsburg,13:57,1.2,false
+157,The Velvet Fork,Chinese,medium,Hell's Kitchen,0:18,1.0,false
+158,Saffron Delight,Indian,medium,Park Slope,4:27,4.1,true
+159,Ocean Blue Grill,Mexican,medium,Jackson Heights,11:07,0.3,false
+160,Saffron Delight,Greek,cheap,Upper East Side,15:36,1.3,true
+161,Whisk & Ladle,Thai,cheap,Greenpoint,18:17,3.9,false
+162,The Hungry Hippo,Italian,expensive,Park Slope,16:07,3.4,false
+163,Mango Tango,Indian,cheap,Bushwick,0:48,2.1,false
+164,Saffron Delight,American,cheap,Jackson Heights,21:31,0.4,true
+165,Flamingo Bistro,Greek,medium,Williamsburg,4:08,2.1,false
+166,Flamingo Bistro,Mediterranean,expensive,Jackson Heights,8:39,0.5,true
+167,Mango Tango,American,expensive,Hell's Kitchen,12:49,2.3,true
+168,Mango Tango,Indian,medium,Upper East Side,23:20,4.2,true
+169,The Velvet Fork,Mexican,expensive,Harlem,8:38,0.8,false
+170,Flamingo Bistro,Greek,cheap,Chelsea,12:50,2.7,true
+171,Flamingo Bistro,Italian,cheap,Harlem,4:55,1.3,false
+172,Mango Tango,Chinese,cheap,Greenpoint,10:44,2.9,true
+173,Whisk & Ladle,French,cheap,Williamsburg,23:52,3.6,true
+174,Sizzle & Spice,Japanese,expensive,Upper East Side,17:08,3.6,false
+175,Crispy Crust Pizzeria,Chinese,medium,Williamsburg,12:02,3.6,true
+176,Sizzle & Spice,Indian,medium,Bushwick,7:29,4.8,true
+177,Sizzle & Spice,Italian,medium,Upper East Side,10:02,3.3,false
+178,Flamingo Bistro,Greek,medium,Harlem,0:52,3.1,true
+179,Saffron Delight,French,medium,Hell's Kitchen,23:34,1.3,false
+180,Ocean Blue Grill,French,cheap,Upper East Side,22:29,1.8,false
+181,Ocean Blue Grill,French,cheap,Bushwick,11:52,3.7,true
+182,The Hungry Hippo,Japanese,expensive,Harlem,8:33,1.7,false
+183,The Cozy Corner,Greek,medium,Greenpoint,22:07,2.6,false
+184,The Hungry Hippo,Italian,medium,Harlem,11:36,4.6,true
+185,Flamingo Bistro,Indian,medium,Harlem,20:32,0.7,true
+186,The Cozy Corner,Greek,medium,Chelsea,0:38,1.8,true
+187,Saffron Delight,Mediterranean,medium,Chelsea,12:11,0.8,true
+188,Sizzle & Spice,Chinese,medium,Hell's Kitchen,14:53,4.1,true
+189,Mango Tango,Greek,expensive,Harlem,21:07,0.9,false
+190,Mango Tango,Mexican,expensive,Chelsea,1:18,0.4,true
+191,The Cozy Corner,Chinese,cheap,Hell's Kitchen,21:51,0.3,false
+192,Mango Tango,Italian,medium,Park Slope,8:45,0.3,true
+193,The Cozy Corner,Italian,cheap,Greenpoint,22:16,0.8,false
+194,Sizzle & Spice,Mexican,cheap,Williamsburg,8:25,1.1,false
+195,Flamingo Bistro,American,medium,Williamsburg,2:22,1.8,true
+196,Sizzle & Spice,Greek,cheap,Jackson Heights,11:00,5.0,false
+197,The Cozy Corner,Italian,cheap,Williamsburg,4:55,4.0,true
+198,Whisk & Ladle,Japanese,cheap,Harlem,17:51,1.8,false
+199,Mango Tango,Japanese,cheap,Harlem,13:20,3.1,false
+200,Mango Tango,Indian,expensive,Chelsea,13:36,3.5,false
+201,The Hungry Hippo,Mediterranean,cheap,Upper East Side,22:51,4.4,true
+202,Ocean Blue Grill,Greek,cheap,Williamsburg,5:59,0.3,true
+203,Sizzle & Spice,Italian,expensive,Bushwick,11:22,3.7,false
+204,Crispy Crust Pizzeria,Indian,cheap,Harlem,16:56,3.0,true
+205,Ocean Blue Grill,American,expensive,Williamsburg,14:40,0.7,false
+206,Mango Tango,Indian,medium,Astoria,18:21,0.1,false
+207,The Velvet Fork,Mexican,cheap,Greenpoint,23:58,3.4,true
+208,Mango Tango,Greek,cheap,Hell's Kitchen,12:58,4.6,false
+209,Mango Tango,Italian,cheap,Harlem,4:00,0.8,true
+210,Sizzle & Spice,Mediterranean,medium,Harlem,1:37,1.9,false
+211,The Velvet Fork,Mediterranean,expensive,Harlem,11:55,2.6,false
+212,Flamingo Bistro,Mediterranean,medium,Greenpoint,21:09,5.0,true
+213,Flamingo Bistro,Chinese,expensive,Chelsea,4:10,2.5,false
+214,The Velvet Fork,Thai,expensive,Park Slope,10:24,0.5,false
+215,The Cozy Corner,Indian,expensive,Greenpoint,15:39,1.1,false
+216,Crispy Crust Pizzeria,French,expensive,Williamsburg,3:47,4.8,true
+217,Mango Tango,American,medium,Hell's Kitchen,5:12,4.2,false
+218,Crispy Crust Pizzeria,Japanese,cheap,Chelsea,12:17,1.7,false
+219,Mango Tango,Chinese,expensive,Jackson Heights,3:50,3.0,false
+220,Flamingo Bistro,Italian,medium,Upper East Side,16:26,2.4,false
+221,Flamingo Bistro,Mexican,expensive,Park Slope,5:01,1.0,false
+222,Ocean Blue Grill,Mediterranean,medium,Chelsea,1:26,4.1,false
+223,Saffron Delight,Indian,cheap,Greenpoint,15:37,3.4,true
+224,Crispy Crust Pizzeria,Mexican,expensive,Chelsea,16:26,3.6,false
+225,Sizzle & Spice,Thai,expensive,Jackson Heights,10:15,3.7,false
+226,Mango Tango,Thai,cheap,Greenpoint,18:25,2.5,false
+227,The Velvet Fork,Thai,expensive,Jackson Heights,16:41,4.5,false
+228,Flamingo Bistro,American,cheap,Chelsea,13:22,2.8,true
+229,Sizzle & Spice,French,medium,Jackson Heights,17:25,0.5,false
+230,Ocean Blue Grill,French,cheap,Bushwick,8:07,1.1,false
+231,Flamingo Bistro,American,medium,Astoria,5:41,3.5,true
+232,Whisk & Ladle,Indian,cheap,Harlem,8:04,0.7,true
+233,Whisk & Ladle,American,medium,Upper East Side,22:19,3.1,true
+234,Crispy Crust Pizzeria,Indian,expensive,Bushwick,0:04,1.0,true
+235,The Cozy Corner,Thai,medium,Park Slope,4:01,3.4,true
+236,The Cozy Corner,French,expensive,Park Slope,13:13,2.1,true
+237,The Velvet Fork,Indian,expensive,Chelsea,22:35,3.7,false
+238,The Hungry Hippo,Mexican,cheap,Bushwick,21:19,1.0,true
+239,The Hungry Hippo,Mexican,medium,Greenpoint,6:08,3.1,false
+240,Flamingo Bistro,Chinese,medium,Bushwick,16:52,4.8,false
+241,Ocean Blue Grill,French,cheap,Park Slope,20:45,3.4,true
+242,The Velvet Fork,Greek,expensive,Williamsburg,19:50,3.0,true
+243,Sizzle & Spice,Chinese,cheap,Jackson Heights,2:41,4.5,true
+244,Crispy Crust Pizzeria,French,expensive,Greenpoint,8:42,4.8,true
+245,The Hungry Hippo,Chinese,medium,Harlem,2:36,4.8,false
+246,The Velvet Fork,Mexican,medium,Park Slope,5:43,3.5,true
+247,The Velvet Fork,Greek,cheap,Harlem,10:32,1.0,true
+248,The Hungry Hippo,Mexican,medium,Harlem,13:37,2.3,false
+249,Ocean Blue Grill,American,expensive,Bushwick,18:28,0.6,true
+250,Saffron Delight,American,expensive,Astoria,0:54,0.5,false
+251,The Hungry Hippo,Thai,expensive,Hell's Kitchen,6:53,1.4,true
+252,The Hungry Hippo,Italian,medium,Bushwick,10:00,2.4,false
+253,Ocean Blue Grill,French,medium,Hell's Kitchen,2:36,0.7,true
+254,Whisk & Ladle,Greek,expensive,Astoria,23:40,2.3,false
+255,Crispy Crust Pizzeria,Indian,medium,Jackson Heights,18:05,3.2,true
+256,The Cozy Corner,American,expensive,Hell's Kitchen,21:13,3.0,true
+257,Mango Tango,Thai,expensive,Harlem,12:16,1.7,true
+258,The Velvet Fork,Japanese,expensive,Bushwick,13:37,1.4,false
+259,Crispy Crust Pizzeria,Mexican,medium,Chelsea,0:54,0.6,false
+260,Ocean Blue Grill,Italian,expensive,Chelsea,6:38,3.5,true
+261,Whisk & Ladle,French,cheap,Williamsburg,20:01,2.0,true
+262,Crispy Crust Pizzeria,French,cheap,Astoria,3:58,3.0,false
+263,The Velvet Fork,Japanese,expensive,Jackson Heights,7:36,4.1,true
+264,Crispy Crust Pizzeria,French,medium,Astoria,6:19,2.9,true
+265,The Cozy Corner,Chinese,cheap,Chelsea,6:50,4.4,true
+266,Flamingo Bistro,Mediterranean,expensive,Jackson Heights,4:13,1.7,false
+267,Saffron Delight,Mexican,medium,Upper East Side,22:20,2.0,true
+268,Crispy Crust Pizzeria,Indian,expensive,Upper East Side,9:48,2.9,false
+269,Crispy Crust Pizzeria,Italian,expensive,Park Slope,1:17,2.8,true
+270,Mango Tango,American,medium,Harlem,16:32,2.7,false
+271,Mango Tango,American,expensive,Park Slope,5:27,3.3,false
+272,The Hungry Hippo,Greek,cheap,Hell's Kitchen,3:39,1.0,true
+273,The Cozy Corner,French,cheap,Jackson Heights,8:01,0.8,true
+274,Mango Tango,Mediterranean,expensive,Chelsea,2:02,4.1,false
+275,Sizzle & Spice,French,expensive,Park Slope,6:26,1.5,true
+276,The Velvet Fork,Mexican,expensive,Astoria,10:21,1.7,false
+277,Mango Tango,Thai,cheap,Park Slope,10:00,4.6,false
+278,Whisk & Ladle,American,expensive,Harlem,11:04,1.3,true
+279,Mango Tango,Greek,cheap,Greenpoint,11:33,0.1,true
+280,Saffron Delight,Greek,cheap,Upper East Side,19:02,2.1,true
+281,The Hungry Hippo,Japanese,medium,Astoria,21:27,2.3,true
+282,Mango Tango,Indian,medium,Chelsea,6:02,1.9,false
+283,The Cozy Corner,Mexican,medium,Bushwick,21:30,3.5,true
+284,Crispy Crust Pizzeria,Chinese,expensive,Upper East Side,23:02,0.1,true
+285,Crispy Crust Pizzeria,Greek,cheap,Park Slope,4:52,0.5,false
+286,Flamingo Bistro,Greek,medium,Upper East Side,14:43,3.2,true
+287,The Hungry Hippo,American,cheap,Park Slope,12:46,0.6,false
+288,Whisk & Ladle,French,medium,Bushwick,14:04,4.6,false
+289,The Cozy Corner,Japanese,expensive,Upper East Side,14:07,1.7,true
+290,Flamingo Bistro,Thai,expensive,Greenpoint,6:10,2.8,true
+291,The Hungry Hippo,Chinese,medium,Hell's Kitchen,0:53,2.9,false
+292,Ocean Blue Grill,Indian,expensive,Williamsburg,11:51,3.6,false
+293,The Velvet Fork,Thai,medium,Chelsea,5:35,1.6,false
+294,The Velvet Fork,Chinese,medium,Chelsea,20:19,1.3,false
+295,Crispy Crust Pizzeria,Mexican,expensive,Bushwick,4:29,2.1,false
+296,Whisk & Ladle,French,cheap,Park Slope,21:47,4.8,true
+297,Saffron Delight,Italian,cheap,Williamsburg,20:35,1.1,true
+298,Saffron Delight,Japanese,expensive,Astoria,16:04,1.2,true
+299,Sizzle & Spice,Indian,medium,Harlem,5:38,0.3,true
+300,The Hungry Hippo,Italian,expensive,Hell's Kitchen,14:52,2.4,false
+301,The Cozy Corner,Italian,cheap,Astoria,16:44,3.2,true
+302,Ocean Blue Grill,Thai,cheap,Hell's Kitchen,12:09,0.5,false
+303,Crispy Crust Pizzeria,Mediterranean,cheap,Hell's Kitchen,3:40,3.7,false
+304,Mango Tango,Indian,medium,Williamsburg,22:40,1.0,true
+305,Crispy Crust Pizzeria,Japanese,medium,Harlem,7:46,2.4,true
+306,Sizzle & Spice,French,medium,Upper East Side,13:54,1.9,false
+307,The Cozy Corner,French,expensive,Jackson Heights,10:33,3.4,true
+308,Saffron Delight,Greek,medium,Hell's Kitchen,23:52,4.2,false
+309,Crispy Crust Pizzeria,Greek,cheap,Greenpoint,5:10,3.6,false
+310,Mango Tango,Thai,cheap,Bushwick,2:21,3.8,false
+311,The Hungry Hippo,Greek,medium,Williamsburg,12:32,4.1,false
+312,The Hungry Hippo,Japanese,medium,Bushwick,3:13,1.5,true
+313,Crispy Crust Pizzeria,American,expensive,Chelsea,23:57,4.6,true
+314,The Hungry Hippo,Thai,expensive,Williamsburg,6:06,1.7,true
+315,Ocean Blue Grill,Mexican,expensive,Bushwick,15:12,4.5,true
+316,Sizzle & Spice,Chinese,medium,Hell's Kitchen,22:56,1.0,true
+317,Sizzle & Spice,Thai,expensive,Chelsea,22:51,2.2,true
+318,Ocean Blue Grill,French,cheap,Hell's Kitchen,9:54,0.4,false
+319,Mango Tango,Mediterranean,cheap,Hell's Kitchen,8:01,0.8,true
+320,Ocean Blue Grill,Mexican,cheap,Jackson Heights,10:56,1.7,false
+321,The Hungry Hippo,Mexican,cheap,Hell's Kitchen,8:24,2.9,true
+322,Ocean Blue Grill,Thai,medium,Greenpoint,21:51,3.7,false
+323,The Velvet Fork,French,expensive,Park Slope,8:53,2.6,true
+324,Crispy Crust Pizzeria,Greek,expensive,Williamsburg,1:19,0.3,true
+325,Crispy Crust Pizzeria,Chinese,expensive,Harlem,11:44,4.7,false
+326,The Cozy Corner,Thai,medium,Jackson Heights,0:58,2.6,false
+327,The Hungry Hippo,American,medium,Bushwick,3:10,3.4,false
+328,Crispy Crust Pizzeria,Mediterranean,expensive,Astoria,6:59,2.8,false
+329,Crispy Crust Pizzeria,Greek,cheap,Chelsea,14:48,0.4,true
+330,Saffron Delight,Japanese,expensive,Hell's Kitchen,22:57,0.3,false
+331,Flamingo Bistro,Thai,expensive,Greenpoint,0:37,0.4,true
+332,Flamingo Bistro,Thai,cheap,Astoria,13:05,2.8,true
+333,The Cozy Corner,American,medium,Park Slope,13:55,2.0,false
+334,The Velvet Fork,Italian,expensive,Greenpoint,21:06,1.9,true
+335,Crispy Crust Pizzeria,Mediterranean,cheap,Park Slope,18:58,3.6,false
+336,Mango Tango,French,medium,Upper East Side,6:41,3.0,true
+337,Crispy Crust Pizzeria,Mexican,cheap,Hell's Kitchen,0:29,2.7,true
+338,Saffron Delight,Italian,medium,Jackson Heights,11:33,2.4,false
+339,Whisk & Ladle,Japanese,cheap,Chelsea,17:05,0.1,true
+340,Sizzle & Spice,Indian,medium,Greenpoint,14:53,3.4,false
+341,The Velvet Fork,Mediterranean,expensive,Astoria,15:26,3.5,false
+342,The Cozy Corner,Thai,medium,Harlem,4:48,3.2,true
+343,The Cozy Corner,Mexican,cheap,Park Slope,18:10,4.1,true
+344,Mango Tango,Greek,cheap,Park Slope,10:03,0.8,false
+345,The Velvet Fork,Indian,expensive,Astoria,23:19,2.7,true
+346,The Velvet Fork,French,cheap,Harlem,12:31,4.7,false
+347,Crispy Crust Pizzeria,French,cheap,Harlem,18:36,2.3,false
+348,Sizzle & Spice,Indian,expensive,Park Slope,19:07,1.6,false
+349,Ocean Blue Grill,Chinese,expensive,Williamsburg,10:41,3.7,false
+350,The Hungry Hippo,American,expensive,Greenpoint,15:53,0.4,false
+351,The Cozy Corner,Italian,expensive,Chelsea,21:54,0.9,true
+352,Ocean Blue Grill,Thai,expensive,Park Slope,9:09,3.0,true
+353,Mango Tango,Italian,expensive,Jackson Heights,18:30,4.2,false
+354,Flamingo Bistro,Thai,expensive,Chelsea,1:22,1.0,true
+355,Crispy Crust Pizzeria,Mexican,medium,Astoria,1:26,3.8,false
+356,Flamingo Bistro,Chinese,expensive,Williamsburg,22:40,4.2,false
+357,Crispy Crust Pizzeria,Mexican,expensive,Greenpoint,20:59,2.1,true
+358,Mango Tango,Indian,medium,Chelsea,23:00,1.1,true
+359,Sizzle & Spice,Indian,cheap,Astoria,11:15,1.3,false
+360,Whisk & Ladle,Japanese,cheap,Upper East Side,21:14,2.7,false
+361,Saffron Delight,American,medium,Bushwick,22:49,4.3,true
+362,Flamingo Bistro,Mediterranean,expensive,Hell's Kitchen,4:08,3.2,false
+363,Ocean Blue Grill,Thai,expensive,Bushwick,0:50,3.3,false
+364,Mango Tango,Mediterranean,expensive,Park Slope,22:48,2.3,true
+365,The Velvet Fork,American,cheap,Park Slope,20:33,0.1,true
+366,Whisk & Ladle,Thai,expensive,Harlem,6:30,1.7,false
+367,Ocean Blue Grill,American,medium,Williamsburg,3:58,4.4,true
+368,The Velvet Fork,Italian,cheap,Jackson Heights,9:46,1.3,true
+369,Crispy Crust Pizzeria,Indian,medium,Hell's Kitchen,1:29,2.4,true
+370,Flamingo Bistro,Greek,medium,Greenpoint,12:32,3.6,false
+371,Sizzle & Spice,Greek,medium,Park Slope,9:11,2.9,false
+372,Sizzle & Spice,Japanese,expensive,Astoria,5:49,3.9,false
+373,Flamingo Bistro,Mexican,expensive,Harlem,16:34,1.1,false
+374,The Velvet Fork,Indian,cheap,Jackson Heights,22:52,1.5,false
+375,Saffron Delight,Thai,cheap,Park Slope,21:09,0.2,false
+376,The Hungry Hippo,Greek,cheap,Jackson Heights,21:11,3.5,false
+377,Ocean Blue Grill,Japanese,cheap,Williamsburg,10:12,3.8,false
+378,Ocean Blue Grill,Japanese,expensive,Williamsburg,15:25,4.7,false
+379,Whisk & Ladle,Italian,medium,Jackson Heights,9:12,2.9,true
+380,Whisk & Ladle,Thai,medium,Astoria,4:58,0.2,true
+381,The Velvet Fork,Indian,expensive,Harlem,15:28,1.3,true
+382,Mango Tango,Mediterranean,cheap,Jackson Heights,18:41,2.6,true
+383,The Velvet Fork,Mediterranean,expensive,Park Slope,1:34,1.1,true
+384,Mango Tango,Chinese,cheap,Park Slope,8:55,4.9,false
+385,The Velvet Fork,Greek,medium,Hell's Kitchen,19:12,2.9,true
+386,Mango Tango,Thai,expensive,Upper East Side,15:37,4.3,true
+387,Mango Tango,Mediterranean,cheap,Williamsburg,12:37,3.6,true
+388,Whisk & Ladle,Japanese,expensive,Harlem,3:42,1.0,false
+389,The Velvet Fork,American,cheap,Chelsea,10:52,3.1,true
+390,Whisk & Ladle,American,medium,Bushwick,3:43,0.2,true
+391,The Cozy Corner,Thai,cheap,Hell's Kitchen,3:57,3.0,true
+392,The Velvet Fork,Chinese,cheap,Williamsburg,17:48,1.3,false
+393,Mango Tango,American,cheap,Hell's Kitchen,1:47,0.2,true
+394,The Cozy Corner,Thai,expensive,Williamsburg,14:46,0.4,true
+395,The Cozy Corner,French,cheap,Jackson Heights,20:00,4.0,false
+396,Ocean Blue Grill,Thai,cheap,Park Slope,18:15,1.9,true
+397,The Velvet Fork,Italian,cheap,Park Slope,8:58,2.1,false
+398,Ocean Blue Grill,Japanese,expensive,Williamsburg,22:49,0.9,true
+399,Crispy Crust Pizzeria,American,medium,Bushwick,4:32,3.3,true
+400,Saffron Delight,Indian,expensive,Williamsburg,4:13,1.6,true
+401,Flamingo Bistro,Mexican,medium,Williamsburg,12:49,1.3,true
+402,The Cozy Corner,Italian,medium,Harlem,5:34,1.1,true
+403,Whisk & Ladle,Indian,expensive,Greenpoint,16:56,1.1,false
+404,Mango Tango,Japanese,medium,Williamsburg,18:06,4.8,false
+405,The Hungry Hippo,Mexican,medium,Bushwick,2:43,3.6,false
+406,Crispy Crust Pizzeria,American,cheap,Chelsea,10:38,2.4,false
+407,Sizzle & Spice,Thai,expensive,Harlem,16:12,0.8,true
+408,Ocean Blue Grill,Mediterranean,medium,Harlem,9:09,2.1,true
+409,Whisk & Ladle,Indian,expensive,Astoria,6:16,4.2,false
+410,Crispy Crust Pizzeria,Chinese,expensive,Jackson Heights,18:38,3.7,false
+411,Whisk & Ladle,American,cheap,Greenpoint,5:28,3.2,true
+412,The Velvet Fork,French,medium,Greenpoint,2:22,3.2,true
+413,The Velvet Fork,American,cheap,Astoria,1:19,0.3,false
+414,Mango Tango,Indian,cheap,Astoria,14:20,0.3,false
+415,Mango Tango,Mediterranean,medium,Jackson Heights,12:46,3.1,true
+416,Saffron Delight,Indian,medium,Park Slope,23:32,0.1,true
+417,Crispy Crust Pizzeria,Japanese,cheap,Astoria,0:51,4.2,false
+418,Whisk & Ladle,French,medium,Jackson Heights,16:33,2.7,true
+419,Flamingo Bistro,Indian,expensive,Park Slope,11:47,0.5,true
+420,Crispy Crust Pizzeria,French,medium,Bushwick,7:30,0.8,false
+421,Crispy Crust Pizzeria,American,cheap,Chelsea,13:36,2.7,true
+422,Whisk & Ladle,American,medium,Park Slope,7:41,1.9,true
+423,Flamingo Bistro,French,expensive,Bushwick,1:18,4.0,true
+424,Crispy Crust Pizzeria,Greek,expensive,Harlem,15:03,0.4,false
+425,Flamingo Bistro,Mexican,expensive,Bushwick,15:40,0.4,true
+426,Mango Tango,French,cheap,Jackson Heights,20:54,2.5,false
+427,The Velvet Fork,Mexican,medium,Chelsea,7:52,0.6,false
+428,Ocean Blue Grill,Japanese,expensive,Williamsburg,17:59,3.2,true
+429,The Hungry Hippo,French,expensive,Greenpoint,0:18,2.5,false
+430,Mango Tango,Greek,medium,Hell's Kitchen,1:16,1.9,false
+431,The Velvet Fork,Indian,expensive,Bushwick,3:46,3.7,true
+432,The Cozy Corner,Greek,expensive,Bushwick,13:49,3.2,false
+433,Sizzle & Spice,Italian,cheap,Jackson Heights,10:50,1.1,false
+434,Whisk & Ladle,American,expensive,Chelsea,20:43,2.2,false
+435,Crispy Crust Pizzeria,Indian,cheap,Astoria,18:02,4.5,false
+436,The Cozy Corner,American,cheap,Williamsburg,7:55,0.7,false
+437,The Cozy Corner,Chinese,medium,Chelsea,5:55,3.6,false
+438,Mango Tango,Italian,expensive,Greenpoint,4:55,2.8,true
+439,Mango Tango,Chinese,expensive,Astoria,17:33,3.6,false
+440,Mango Tango,Greek,expensive,Bushwick,2:53,2.6,true
+441,Crispy Crust Pizzeria,French,expensive,Astoria,13:09,2.6,false
+442,The Cozy Corner,Mediterranean,medium,Harlem,15:06,1.3,true
+443,Whisk & Ladle,French,medium,Harlem,19:23,4.7,true
+444,Flamingo Bistro,French,cheap,Upper East Side,3:58,3.4,false
+445,The Velvet Fork,Chinese,cheap,Upper East Side,18:13,1.1,true
+446,Whisk & Ladle,Indian,cheap,Upper East Side,16:34,2.4,true
+447,Whisk & Ladle,Chinese,cheap,Williamsburg,15:09,1.1,true
+448,Mango Tango,Chinese,medium,Bushwick,11:11,1.1,true
+449,Crispy Crust Pizzeria,Thai,medium,Williamsburg,14:26,3.5,false
+450,Crispy Crust Pizzeria,Chinese,cheap,Chelsea,1:05,3.4,true
+451,Sizzle & Spice,Japanese,medium,Harlem,18:43,3.9,true
+452,Crispy Crust Pizzeria,Chinese,medium,Hell's Kitchen,15:18,0.6,true
+453,The Cozy Corner,Japanese,expensive,Greenpoint,19:38,3.1,false
+454,Ocean Blue Grill,American,cheap,Bushwick,0:14,0.5,false
+455,Mango Tango,Mediterranean,medium,Upper East Side,12:34,0.9,true
+456,The Cozy Corner,Mediterranean,cheap,Bushwick,19:47,2.4,true
+457,The Velvet Fork,Italian,expensive,Chelsea,8:58,3.1,false
+458,Ocean Blue Grill,Indian,cheap,Bushwick,15:53,3.6,true
+459,Flamingo Bistro,Indian,medium,Chelsea,14:41,0.9,false
+460,The Velvet Fork,Mexican,cheap,Hell's Kitchen,10:01,3.7,true
+461,Whisk & Ladle,Chinese,cheap,Harlem,3:28,3.1,true
+462,Ocean Blue Grill,Indian,cheap,Jackson Heights,13:15,3.1,false
+463,Flamingo Bistro,Mexican,expensive,Harlem,12:59,0.3,true
+464,Sizzle & Spice,Thai,medium,Hell's Kitchen,21:50,3.0,true
+465,Saffron Delight,Greek,medium,Astoria,15:28,4.0,true
+466,Sizzle & Spice,French,cheap,Greenpoint,9:05,0.8,false
+467,Ocean Blue Grill,Thai,expensive,Upper East Side,6:10,0.0,false
+468,Sizzle & Spice,Indian,medium,Williamsburg,15:27,1.5,true
+469,Whisk & Ladle,Italian,medium,Jackson Heights,20:02,4.9,false
+470,The Hungry Hippo,Mediterranean,expensive,Park Slope,14:29,4.5,false
+471,Flamingo Bistro,Mexican,cheap,Harlem,23:31,0.4,true
+472,Mango Tango,Greek,medium,Jackson Heights,6:01,2.6,false
+473,Mango Tango,Greek,cheap,Astoria,18:44,3.2,true
+474,Whisk & Ladle,Mediterranean,cheap,Hell's Kitchen,10:32,2.8,false
+475,The Hungry Hippo,Indian,expensive,Park Slope,19:33,0.2,false
+476,Whisk & Ladle,Greek,medium,Williamsburg,21:46,0.9,false
+477,Sizzle & Spice,Mexican,cheap,Jackson Heights,11:04,1.9,true
+478,Whisk & Ladle,Chinese,expensive,Harlem,23:17,3.5,true
+479,Mango Tango,Thai,expensive,Harlem,18:26,4.8,false
+480,The Hungry Hippo,Mediterranean,cheap,Williamsburg,4:34,0.7,true
+481,Sizzle & Spice,Italian,expensive,Jackson Heights,1:54,2.2,true
+482,The Cozy Corner,American,expensive,Bushwick,15:46,3.8,false
+483,The Velvet Fork,Mexican,medium,Park Slope,2:53,0.1,false
+484,Sizzle & Spice,Mediterranean,cheap,Chelsea,16:40,3.8,true
+485,Mango Tango,Thai,cheap,Hell's Kitchen,6:05,1.0,false
+486,The Cozy Corner,French,cheap,Park Slope,6:06,1.1,true
+487,Mango Tango,American,expensive,Greenpoint,5:41,0.6,false
+488,The Hungry Hippo,Mediterranean,cheap,Park Slope,4:21,2.4,false
+489,Crispy Crust Pizzeria,French,cheap,Park Slope,12:54,1.9,true
+490,Saffron Delight,Mediterranean,expensive,Hell's Kitchen,7:36,0.8,true
+491,The Hungry Hippo,Japanese,cheap,Jackson Heights,20:59,1.2,true
+492,Flamingo Bistro,Greek,cheap,Jackson Heights,0:33,0.8,true
+493,The Hungry Hippo,Chinese,expensive,Astoria,14:44,1.9,false
+494,Saffron Delight,Japanese,medium,Upper East Side,11:54,0.7,false
+495,The Velvet Fork,Indian,medium,Williamsburg,17:47,1.4,false
+496,Sizzle & Spice,French,medium,Chelsea,16:41,4.5,true
+497,Flamingo Bistro,Mexican,expensive,Chelsea,14:25,2.0,false
+498,The Cozy Corner,Greek,cheap,Chelsea,13:20,4.7,false
+499,Flamingo Bistro,Mexican,cheap,Williamsburg,18:36,0.0,true
+500,Crispy Crust Pizzeria,Greek,medium,Bushwick,6:04,5.0,false
+501,Sizzle & Spice,Indian,expensive,Astoria,0:00,3.8,true
+502,Sizzle & Spice,Mediterranean,expensive,Bushwick,16:09,1.9,true
+503,The Velvet Fork,American,cheap,Astoria,11:59,3.2,true
+504,Crispy Crust Pizzeria,Chinese,cheap,Williamsburg,11:45,2.7,false
+505,Mango Tango,Indian,cheap,Bushwick,2:26,2.1,true
+506,Sizzle & Spice,Thai,medium,Hell's Kitchen,10:01,0.6,true
+507,Whisk & Ladle,Thai,cheap,Harlem,9:38,4.8,false
+508,Sizzle & Spice,Greek,expensive,Greenpoint,14:35,2.4,false
+509,The Cozy Corner,Indian,medium,Greenpoint,15:32,2.1,false
+510,The Hungry Hippo,Mediterranean,expensive,Astoria,3:06,3.9,false
+511,Mango Tango,Japanese,cheap,Bushwick,12:57,2.8,false
+512,The Hungry Hippo,Mediterranean,cheap,Williamsburg,23:00,0.5,true
+513,The Hungry Hippo,Chinese,cheap,Williamsburg,18:05,3.9,false
+514,The Cozy Corner,Thai,expensive,Park Slope,5:40,1.8,false
+515,Mango Tango,Mexican,medium,Chelsea,18:20,4.9,false
+516,Whisk & Ladle,Japanese,medium,Harlem,16:35,1.6,false
+517,Whisk & Ladle,Indian,cheap,Williamsburg,8:41,5.0,true
+518,Flamingo Bistro,Mexican,cheap,Upper East Side,17:30,3.1,true
+519,Flamingo Bistro,Greek,expensive,Williamsburg,6:18,2.6,false
+520,The Cozy Corner,American,expensive,Upper East Side,9:46,1.3,false
+521,Ocean Blue Grill,Indian,cheap,Bushwick,20:18,3.3,false
+522,Ocean Blue Grill,Italian,medium,Hell's Kitchen,14:55,1.8,true
+523,Flamingo Bistro,Mediterranean,expensive,Jackson Heights,10:49,3.8,false
+524,Sizzle & Spice,American,expensive,Greenpoint,7:18,3.3,false
+525,Sizzle & Spice,Chinese,medium,Williamsburg,13:16,4.0,false
+526,Mango Tango,French,cheap,Chelsea,1:37,0.4,true
+527,Mango Tango,Japanese,cheap,Upper East Side,14:04,4.8,true
+528,The Velvet Fork,Chinese,medium,Jackson Heights,12:37,2.4,true
+529,The Velvet Fork,Mediterranean,cheap,Upper East Side,23:38,3.4,false
+530,Whisk & Ladle,Thai,expensive,Chelsea,10:28,3.6,false
+531,Crispy Crust Pizzeria,Mexican,cheap,Park Slope,12:39,3.8,true
+532,The Cozy Corner,Indian,expensive,Upper East Side,18:25,4.9,false
+533,Ocean Blue Grill,Greek,cheap,Harlem,18:00,3.7,true
+534,The Hungry Hippo,Greek,expensive,Upper East Side,10:43,3.7,true
+535,The Velvet Fork,Japanese,cheap,Greenpoint,6:46,3.5,true
+536,The Hungry Hippo,Indian,medium,Harlem,5:12,2.4,false
+537,Ocean Blue Grill,Mexican,expensive,Greenpoint,0:03,3.0,false
+538,Ocean Blue Grill,French,cheap,Chelsea,8:07,4.6,false
+539,Flamingo Bistro,Mediterranean,cheap,Chelsea,13:56,0.7,false
+540,The Velvet Fork,American,medium,Upper East Side,8:15,2.2,true
+541,Ocean Blue Grill,Greek,cheap,Jackson Heights,2:34,4.5,false
+542,Mango Tango,Mediterranean,medium,Hell's Kitchen,20:48,1.8,true
+543,Sizzle & Spice,Thai,cheap,Williamsburg,14:22,4.7,false
+544,The Cozy Corner,American,cheap,Astoria,0:35,0.4,false
+545,Whisk & Ladle,Mexican,medium,Park Slope,4:07,2.2,false
+546,The Cozy Corner,Mexican,medium,Harlem,10:36,2.5,false
+547,Crispy Crust Pizzeria,Japanese,cheap,Park Slope,21:29,3.3,true
+548,Whisk & Ladle,French,cheap,Bushwick,10:37,1.5,true
+549,The Cozy Corner,Indian,cheap,Astoria,12:31,2.0,false
+550,Flamingo Bistro,Italian,medium,Chelsea,9:39,3.6,false
+551,The Velvet Fork,Italian,medium,Bushwick,6:56,4.4,false
+552,Ocean Blue Grill,American,cheap,Jackson Heights,21:16,0.6,true
+553,Saffron Delight,Thai,expensive,Park Slope,1:11,1.2,false
+554,Mango Tango,Thai,cheap,Jackson Heights,7:13,2.7,true
+555,Ocean Blue Grill,Italian,medium,Chelsea,8:54,2.7,true
+556,Saffron Delight,Italian,cheap,Williamsburg,15:52,1.8,false
+557,The Cozy Corner,Japanese,medium,Williamsburg,4:01,4.1,true
+558,Ocean Blue Grill,Mexican,cheap,Greenpoint,6:15,1.5,false
+559,Flamingo Bistro,Japanese,medium,Park Slope,9:55,1.8,true
+560,The Hungry Hippo,Japanese,medium,Upper East Side,20:32,3.7,false
+561,Crispy Crust Pizzeria,Mexican,expensive,Hell's Kitchen,6:34,1.7,false
+562,Sizzle & Spice,Chinese,medium,Jackson Heights,15:13,4.2,false
+563,The Hungry Hippo,Greek,medium,Bushwick,21:13,3.0,true
+564,Flamingo Bistro,Mexican,cheap,Jackson Heights,9:21,0.9,true
+565,Whisk & Ladle,Mediterranean,medium,Hell's Kitchen,16:14,2.0,true
+566,Ocean Blue Grill,Indian,expensive,Williamsburg,9:54,4.4,true
+567,Sizzle & Spice,American,medium,Bushwick,3:08,5.0,true
+568,Saffron Delight,Thai,cheap,Chelsea,21:17,1.8,false
+569,Mango Tango,French,medium,Hell's Kitchen,2:49,3.8,false
+570,Whisk & Ladle,Mediterranean,medium,Astoria,14:12,1.7,false
+571,The Hungry Hippo,Japanese,medium,Bushwick,4:51,0.8,false
+572,The Velvet Fork,Indian,cheap,Jackson Heights,11:03,0.7,false
+573,Crispy Crust Pizzeria,Italian,cheap,Greenpoint,2:48,3.7,false
+574,Ocean Blue Grill,Indian,medium,Jackson Heights,18:32,1.8,true
+575,Crispy Crust Pizzeria,Italian,expensive,Chelsea,18:47,0.2,false
+576,The Hungry Hippo,Mexican,cheap,Astoria,5:00,0.9,true
+577,Whisk & Ladle,Mediterranean,expensive,Greenpoint,20:47,3.6,false
+578,The Cozy Corner,Thai,expensive,Hell's Kitchen,4:58,0.6,true
+579,Sizzle & Spice,Indian,expensive,Harlem,14:12,4.3,true
+580,Saffron Delight,Thai,expensive,Upper East Side,22:06,3.0,false
+581,Ocean Blue Grill,Indian,expensive,Astoria,20:00,2.1,true
+582,Crispy Crust Pizzeria,Chinese,cheap,Chelsea,14:18,3.0,false
+583,Whisk & Ladle,Thai,medium,Bushwick,5:07,1.1,false
+584,The Cozy Corner,Italian,medium,Chelsea,8:13,4.7,true
+585,The Velvet Fork,Thai,expensive,Harlem,4:29,1.4,true
+586,Ocean Blue Grill,American,expensive,Harlem,22:02,0.2,true
+587,Ocean Blue Grill,French,medium,Greenpoint,11:02,3.4,true
+588,Flamingo Bistro,Chinese,expensive,Jackson Heights,7:03,1.1,true
+589,Crispy Crust Pizzeria,Greek,medium,Jackson Heights,15:25,2.7,true
+590,Ocean Blue Grill,Mediterranean,expensive,Upper East Side,15:22,3.8,true
+591,The Hungry Hippo,Thai,cheap,Bushwick,21:05,4.0,false
+592,Whisk & Ladle,American,expensive,Park Slope,15:59,1.0,true
+593,Whisk & Ladle,American,medium,Astoria,12:45,3.5,true
+594,Mango Tango,Indian,medium,Astoria,22:09,2.8,false
+595,The Cozy Corner,Mexican,cheap,Upper East Side,13:01,0.7,true
+596,Sizzle & Spice,Mediterranean,medium,Jackson Heights,12:24,0.7,true
+597,The Hungry Hippo,Chinese,medium,Bushwick,11:02,3.5,true
+598,Whisk & Ladle,American,medium,Greenpoint,18:15,1.1,false
+599,Sizzle & Spice,Mediterranean,expensive,Astoria,7:33,0.5,false
+600,The Velvet Fork,American,cheap,Jackson Heights,3:36,2.6,false
+601,The Hungry Hippo,Indian,cheap,Greenpoint,7:55,0.0,true
+602,The Hungry Hippo,Japanese,expensive,Williamsburg,18:51,0.2,true
+603,Ocean Blue Grill,Italian,expensive,Greenpoint,18:12,1.8,true
+604,Whisk & Ladle,Indian,expensive,Bushwick,20:09,1.7,true
+605,Saffron Delight,Thai,cheap,Williamsburg,18:31,2.6,true
+606,Crispy Crust Pizzeria,Greek,expensive,Greenpoint,11:56,2.5,true
+607,The Cozy Corner,Chinese,expensive,Upper East Side,0:29,0.4,false
+608,The Velvet Fork,Mexican,expensive,Williamsburg,5:14,4.4,false
+609,Crispy Crust Pizzeria,Indian,medium,Park Slope,3:07,0.2,false
+610,Saffron Delight,Chinese,expensive,Chelsea,12:51,2.7,false
+611,Mango Tango,Mediterranean,expensive,Park Slope,14:28,2.9,true
+612,Mango Tango,American,medium,Upper East Side,18:57,4.2,false
+613,Crispy Crust Pizzeria,American,expensive,Park Slope,19:00,4.5,true
+614,The Hungry Hippo,Italian,expensive,Park Slope,11:20,4.7,true
+615,Ocean Blue Grill,Mexican,cheap,Harlem,2:11,3.2,true
+616,Mango Tango,French,expensive,Greenpoint,12:09,2.4,false
+617,The Velvet Fork,Japanese,medium,Hell's Kitchen,21:58,3.7,false
+618,The Hungry Hippo,Mexican,expensive,Williamsburg,2:38,0.1,false
+619,The Hungry Hippo,Mexican,medium,Upper East Side,11:46,2.9,false
+620,Saffron Delight,Greek,cheap,Chelsea,0:46,1.1,true
+621,The Hungry Hippo,Mediterranean,cheap,Jackson Heights,13:05,3.4,false
+622,The Velvet Fork,Chinese,medium,Upper East Side,11:10,2.0,false
+623,The Velvet Fork,Japanese,medium,Williamsburg,15:15,4.2,false
+624,The Velvet Fork,Thai,expensive,Astoria,13:26,1.2,true
+625,Flamingo Bistro,American,expensive,Bushwick,18:53,1.7,true
+626,Flamingo Bistro,French,expensive,Park Slope,21:55,1.0,false
+627,The Cozy Corner,Thai,medium,Jackson Heights,12:18,0.9,false
+628,The Hungry Hippo,Chinese,medium,Upper East Side,0:39,4.8,false
+629,Mango Tango,Indian,cheap,Harlem,11:55,2.8,true
+630,Whisk & Ladle,Japanese,medium,Williamsburg,0:27,0.3,true
+631,Flamingo Bistro,Thai,cheap,Jackson Heights,16:22,4.0,true
+632,The Velvet Fork,Italian,expensive,Greenpoint,5:58,3.4,true
+633,Ocean Blue Grill,Japanese,medium,Williamsburg,11:15,2.4,true
+634,Saffron Delight,Japanese,medium,Park Slope,14:29,4.7,false
+635,Flamingo Bistro,French,cheap,Bushwick,22:57,2.4,true
+636,Flamingo Bistro,Italian,medium,Williamsburg,7:56,0.1,false
+637,The Hungry Hippo,Chinese,expensive,Park Slope,6:30,3.9,true
+638,Crispy Crust Pizzeria,Mediterranean,expensive,Chelsea,8:48,4.9,true
+639,Flamingo Bistro,Mediterranean,expensive,Upper East Side,5:12,0.9,false
+640,Whisk & Ladle,Thai,medium,Harlem,0:56,4.1,true
+641,Sizzle & Spice,Italian,cheap,Park Slope,15:14,1.2,true
+642,The Cozy Corner,Mexican,cheap,Greenpoint,18:11,0.9,false
+643,The Velvet Fork,Mediterranean,expensive,Harlem,3:12,2.7,false
+644,Saffron Delight,American,medium,Hell's Kitchen,14:35,4.7,false
+645,Mango Tango,American,expensive,Astoria,19:51,3.5,false
+646,Mango Tango,Mexican,cheap,Greenpoint,19:42,3.4,false
+647,The Hungry Hippo,Italian,cheap,Williamsburg,10:13,0.5,true
+648,Flamingo Bistro,Mexican,medium,Bushwick,19:31,3.5,false
+649,The Hungry Hippo,Italian,cheap,Greenpoint,17:29,1.1,true
+650,The Hungry Hippo,Indian,medium,Chelsea,16:46,3.6,false
+651,Mango Tango,Mexican,medium,Hell's Kitchen,0:55,0.1,true
+652,Flamingo Bistro,Italian,cheap,Bushwick,9:57,4.0,true
+653,Crispy Crust Pizzeria,Mediterranean,expensive,Park Slope,21:39,0.5,false
+654,Mango Tango,Chinese,expensive,Jackson Heights,0:49,4.2,false
+655,Saffron Delight,Thai,cheap,Williamsburg,11:56,0.3,false
+656,Whisk & Ladle,Chinese,expensive,Park Slope,16:46,4.3,false
+657,The Hungry Hippo,Japanese,expensive,Greenpoint,13:14,4.3,true
+658,The Hungry Hippo,French,cheap,Park Slope,18:35,4.8,false
+659,Whisk & Ladle,Greek,medium,Hell's Kitchen,0:34,0.3,true
+660,Ocean Blue Grill,Mexican,expensive,Harlem,0:24,2.6,false
+661,Sizzle & Spice,French,cheap,Hell's Kitchen,18:19,2.0,false
+662,Saffron Delight,Thai,medium,Upper East Side,20:51,2.2,true
+663,The Hungry Hippo,Thai,medium,Park Slope,8:25,0.6,true
+664,Mango Tango,Greek,medium,Jackson Heights,22:41,3.3,false
+665,Ocean Blue Grill,Chinese,cheap,Bushwick,9:32,3.5,true
+666,Crispy Crust Pizzeria,Indian,cheap,Hell's Kitchen,5:30,2.6,true
+667,The Cozy Corner,Japanese,expensive,Chelsea,22:17,0.1,false
+668,Mango Tango,Greek,expensive,Jackson Heights,22:41,4.3,false
+669,The Hungry Hippo,Italian,cheap,Williamsburg,17:31,4.7,true
+670,The Velvet Fork,Mexican,expensive,Harlem,9:22,2.0,true
+671,The Velvet Fork,Italian,expensive,Bushwick,4:57,1.6,true
+672,Saffron Delight,French,medium,Upper East Side,4:40,4.9,true
+673,The Hungry Hippo,Japanese,expensive,Park Slope,9:34,0.3,false
+674,The Hungry Hippo,Mediterranean,cheap,Chelsea,6:06,2.1,true
+675,Mango Tango,American,medium,Williamsburg,7:22,0.4,true
+676,Saffron Delight,French,cheap,Astoria,10:50,1.6,true
+677,Sizzle & Spice,Japanese,cheap,Bushwick,7:08,4.0,false
+678,The Cozy Corner,Mexican,expensive,Upper East Side,21:08,1.1,false
+679,Sizzle & Spice,Italian,medium,Astoria,11:16,3.7,true
+680,Whisk & Ladle,Mexican,cheap,Astoria,20:13,1.8,false
+681,The Cozy Corner,Japanese,expensive,Jackson Heights,10:02,3.4,true
+682,Flamingo Bistro,Italian,cheap,Astoria,14:20,4.9,true
+683,The Cozy Corner,Italian,expensive,Harlem,14:43,2.1,false
+684,The Cozy Corner,Japanese,medium,Astoria,22:06,0.4,false
+685,Sizzle & Spice,Mediterranean,expensive,Harlem,21:40,4.2,false
+686,Flamingo Bistro,Greek,cheap,Bushwick,16:09,1.4,false
+687,Saffron Delight,Mediterranean,cheap,Hell's Kitchen,14:36,1.1,false
+688,Mango Tango,Mediterranean,medium,Jackson Heights,1:22,2.2,true
+689,The Cozy Corner,Indian,expensive,Chelsea,7:40,4.7,true
+690,Ocean Blue Grill,Japanese,expensive,Park Slope,5:45,4.8,false
+691,Mango Tango,Indian,expensive,Jackson Heights,14:02,3.3,false
+692,Whisk & Ladle,American,cheap,Jackson Heights,4:25,3.6,false
+693,Crispy Crust Pizzeria,Chinese,cheap,Jackson Heights,20:49,0.5,true
+694,The Cozy Corner,American,medium,Williamsburg,17:13,4.9,false
+695,Flamingo Bistro,Greek,cheap,Greenpoint,1:16,3.0,true
+696,Saffron Delight,American,expensive,Astoria,9:03,1.7,false
+697,Whisk & Ladle,Thai,medium,Park Slope,4:08,1.2,true
+698,Ocean Blue Grill,Japanese,expensive,Park Slope,20:15,4.0,false
+699,Crispy Crust Pizzeria,American,expensive,Chelsea,7:43,3.9,false
+700,The Cozy Corner,Indian,cheap,Harlem,18:57,2.1,false
+701,Sizzle & Spice,Japanese,expensive,Bushwick,17:43,2.2,false
+702,Whisk & Ladle,Indian,medium,Harlem,17:40,1.4,true
+703,Flamingo Bistro,Mediterranean,medium,Astoria,5:25,0.2,true
+704,The Velvet Fork,Japanese,cheap,Park Slope,7:13,4.2,false
+705,The Velvet Fork,Chinese,expensive,Jackson Heights,20:42,1.9,false
+706,Flamingo Bistro,Greek,medium,Jackson Heights,1:52,1.6,false
+707,Flamingo Bistro,Thai,expensive,Jackson Heights,1:26,2.2,true
+708,The Velvet Fork,American,cheap,Jackson Heights,21:12,1.2,true
+709,Crispy Crust Pizzeria,French,cheap,Greenpoint,13:46,3.4,false
+710,Ocean Blue Grill,Japanese,expensive,Williamsburg,17:05,1.9,false
+711,Ocean Blue Grill,Chinese,cheap,Williamsburg,20:47,4.4,false
+712,The Hungry Hippo,Mediterranean,medium,Harlem,18:23,1.5,true
+713,Crispy Crust Pizzeria,Indian,medium,Williamsburg,8:40,4.5,false
+714,Saffron Delight,Chinese,expensive,Astoria,17:57,2.5,false
+715,The Cozy Corner,French,medium,Harlem,12:28,4.4,false
+716,Flamingo Bistro,Indian,medium,Chelsea,10:27,0.3,false
+717,Sizzle & Spice,French,expensive,Astoria,20:18,1.4,false
+718,Saffron Delight,Mediterranean,expensive,Greenpoint,4:53,0.9,false
+719,Whisk & Ladle,Mexican,cheap,Hell's Kitchen,23:56,2.3,false
+720,Flamingo Bistro,French,medium,Hell's Kitchen,18:28,0.5,false
+721,Crispy Crust Pizzeria,French,cheap,Astoria,16:28,1.2,true
+722,The Hungry Hippo,Chinese,cheap,Harlem,17:19,0.8,false
+723,The Hungry Hippo,Italian,cheap,Jackson Heights,18:11,1.7,false
+724,Mango Tango,Greek,cheap,Harlem,11:29,3.4,true
+725,Mango Tango,Chinese,medium,Bushwick,13:00,0.5,false
+726,Crispy Crust Pizzeria,French,medium,Astoria,22:56,1.9,false
+727,Ocean Blue Grill,Mediterranean,expensive,Jackson Heights,0:20,2.1,false
+728,Ocean Blue Grill,Indian,cheap,Park Slope,1:58,4.4,false
+729,Saffron Delight,Greek,expensive,Bushwick,10:32,0.8,true
+730,Crispy Crust Pizzeria,Greek,medium,Upper East Side,0:51,1.0,true
+731,Crispy Crust Pizzeria,Japanese,cheap,Chelsea,19:18,1.0,true
+732,Saffron Delight,Greek,medium,Astoria,8:19,0.3,false
+733,Sizzle & Spice,Italian,medium,Park Slope,11:44,3.7,false
+734,Crispy Crust Pizzeria,Greek,medium,Bushwick,14:45,3.5,false
+735,Ocean Blue Grill,Greek,cheap,Hell's Kitchen,7:05,3.4,false
+736,Sizzle & Spice,French,cheap,Bushwick,4:50,3.9,true
+737,Saffron Delight,Japanese,medium,Park Slope,14:41,1.1,false
+738,Whisk & Ladle,Mexican,expensive,Hell's Kitchen,19:31,3.6,false
+739,Crispy Crust Pizzeria,Mexican,expensive,Greenpoint,21:53,0.1,false
+740,Saffron Delight,Italian,expensive,Greenpoint,22:55,4.5,false
+741,Ocean Blue Grill,Japanese,expensive,Harlem,21:30,3.4,true
+742,The Velvet Fork,Indian,cheap,Park Slope,8:10,4.1,true
+743,The Hungry Hippo,Italian,medium,Bushwick,0:52,4.4,true
+744,Saffron Delight,Chinese,medium,Astoria,14:31,4.8,true
+745,The Hungry Hippo,Thai,cheap,Bushwick,5:20,1.5,true
+746,Whisk & Ladle,American,expensive,Harlem,13:51,1.8,true
+747,Crispy Crust Pizzeria,Italian,expensive,Williamsburg,10:06,3.5,true
+748,The Cozy Corner,Thai,medium,Upper East Side,16:17,1.6,true
+749,Mango Tango,Greek,cheap,Hell's Kitchen,11:57,0.7,true
+750,The Hungry Hippo,French,medium,Hell's Kitchen,2:09,2.7,true
+751,Ocean Blue Grill,French,cheap,Jackson Heights,1:14,4.9,false
+752,Ocean Blue Grill,Mexican,expensive,Bushwick,6:44,2.6,false
+753,The Hungry Hippo,Mediterranean,medium,Upper East Side,19:57,4.5,true
+754,The Velvet Fork,French,expensive,Harlem,1:50,2.5,true
+755,Whisk & Ladle,Greek,cheap,Astoria,7:23,0.3,false
+756,The Velvet Fork,Greek,medium,Bushwick,9:23,2.3,false
+757,Sizzle & Spice,Thai,medium,Greenpoint,21:04,1.0,false
+758,Crispy Crust Pizzeria,French,medium,Harlem,9:55,1.9,false
+759,The Velvet Fork,Mediterranean,medium,Chelsea,7:23,2.2,false
+760,The Hungry Hippo,Mediterranean,cheap,Hell's Kitchen,3:55,0.4,false
+761,Crispy Crust Pizzeria,Italian,cheap,Chelsea,21:45,4.8,false
+762,Whisk & Ladle,American,cheap,Harlem,11:47,3.0,true
+763,The Hungry Hippo,Chinese,expensive,Harlem,11:47,1.1,false
+764,Mango Tango,Mexican,medium,Jackson Heights,23:25,0.9,true
+765,The Velvet Fork,Mexican,cheap,Upper East Side,21:31,0.2,false
+766,Mango Tango,French,medium,Hell's Kitchen,14:45,4.0,false
+767,Ocean Blue Grill,Greek,medium,Greenpoint,4:48,1.2,false
+768,The Cozy Corner,American,expensive,Astoria,20:45,4.1,true
+769,The Hungry Hippo,Italian,cheap,Upper East Side,21:37,4.7,false
+770,Sizzle & Spice,Chinese,expensive,Hell's Kitchen,6:59,1.3,false
+771,Mango Tango,Mexican,expensive,Park Slope,16:01,2.9,true
+772,Mango Tango,Italian,cheap,Harlem,0:52,3.3,false
+773,The Cozy Corner,Thai,expensive,Park Slope,15:46,2.3,false
+774,Saffron Delight,Indian,medium,Harlem,22:42,0.4,false
+775,Saffron Delight,American,medium,Astoria,12:19,0.4,true
+776,Mango Tango,Mexican,expensive,Harlem,15:28,1.0,false
+777,Mango Tango,French,cheap,Williamsburg,5:50,2.7,false
+778,Ocean Blue Grill,French,expensive,Chelsea,11:11,3.2,false
+779,Crispy Crust Pizzeria,Greek,medium,Jackson Heights,5:25,0.7,false
+780,Whisk & Ladle,Indian,expensive,Astoria,7:38,1.5,true
+781,Saffron Delight,Thai,medium,Astoria,20:46,0.9,true
+782,The Velvet Fork,Greek,expensive,Harlem,2:20,3.5,false
+783,The Velvet Fork,Mexican,expensive,Astoria,14:28,3.1,true
+784,Flamingo Bistro,French,cheap,Chelsea,6:56,2.6,true
+785,Sizzle & Spice,American,cheap,Upper East Side,14:32,0.8,false
+786,Mango Tango,Japanese,medium,Park Slope,12:26,2.8,true
+787,Crispy Crust Pizzeria,French,medium,Astoria,21:18,2.1,true
+788,Crispy Crust Pizzeria,Indian,expensive,Astoria,8:21,0.7,true
+789,Mango Tango,Mexican,cheap,Park Slope,2:20,3.6,false
+790,The Hungry Hippo,Italian,expensive,Williamsburg,18:08,4.4,false
+791,Flamingo Bistro,Japanese,medium,Jackson Heights,18:06,2.6,true
+792,Sizzle & Spice,Italian,expensive,Jackson Heights,22:56,0.4,true
+793,Mango Tango,Mexican,cheap,Hell's Kitchen,14:19,0.8,true
+794,Whisk & Ladle,French,expensive,Hell's Kitchen,5:23,3.5,false
+795,Saffron Delight,Indian,medium,Astoria,18:03,0.1,true
+796,Sizzle & Spice,Indian,expensive,Jackson Heights,1:36,1.9,false
+797,The Hungry Hippo,Japanese,medium,Williamsburg,2:49,5.0,false
+798,Sizzle & Spice,Greek,cheap,Upper East Side,10:23,3.1,false
+799,Flamingo Bistro,Chinese,expensive,Astoria,21:07,4.2,true
+800,The Hungry Hippo,American,expensive,Upper East Side,20:13,0.2,false
+801,Crispy Crust Pizzeria,Italian,expensive,Harlem,2:49,1.8,true
+802,The Hungry Hippo,Japanese,expensive,Chelsea,14:55,3.1,true
+803,Ocean Blue Grill,French,expensive,Harlem,16:25,4.1,false
+804,Ocean Blue Grill,Mediterranean,medium,Greenpoint,10:36,2.0,false
+805,The Cozy Corner,French,cheap,Hell's Kitchen,10:15,4.3,false
+806,The Hungry Hippo,American,medium,Williamsburg,10:05,2.6,false
+807,Saffron Delight,Greek,expensive,Williamsburg,20:09,1.1,false
+808,Flamingo Bistro,Mexican,cheap,Park Slope,4:21,0.8,true
+809,Saffron Delight,Japanese,expensive,Williamsburg,2:58,3.3,true
+810,Ocean Blue Grill,Mexican,expensive,Williamsburg,4:24,0.2,true
+811,The Cozy Corner,Italian,expensive,Jackson Heights,6:02,0.9,true
+812,Whisk & Ladle,Indian,expensive,Harlem,2:37,1.8,false
+813,Flamingo Bistro,Mediterranean,expensive,Upper East Side,5:41,4.3,true
+814,Ocean Blue Grill,American,medium,Williamsburg,9:02,3.3,true
+815,Whisk & Ladle,American,medium,Chelsea,23:52,2.0,false
+816,Whisk & Ladle,American,medium,Harlem,4:53,1.1,false
+817,The Hungry Hippo,Chinese,cheap,Park Slope,23:12,3.8,false
+818,Whisk & Ladle,Chinese,medium,Park Slope,18:05,0.3,true
+819,The Cozy Corner,Greek,medium,Astoria,22:08,2.5,true
+820,Saffron Delight,Thai,cheap,Hell's Kitchen,22:44,4.3,true
+821,Flamingo Bistro,Greek,expensive,Jackson Heights,18:56,2.0,false
+822,The Velvet Fork,American,medium,Upper East Side,12:04,3.2,true
+823,Whisk & Ladle,Greek,medium,Park Slope,19:49,3.7,true
+824,Sizzle & Spice,Mexican,expensive,Hell's Kitchen,20:21,1.8,false
+825,Ocean Blue Grill,Italian,cheap,Williamsburg,5:30,2.2,true
+826,Crispy Crust Pizzeria,Mexican,medium,Harlem,8:19,3.3,true
+827,The Hungry Hippo,Mediterranean,expensive,Hell's Kitchen,13:39,3.0,false
+828,Flamingo Bistro,Indian,cheap,Bushwick,8:18,0.8,false
+829,Ocean Blue Grill,Thai,medium,Greenpoint,17:40,2.7,true
+830,The Cozy Corner,Mexican,cheap,Chelsea,20:36,0.8,false
+831,Sizzle & Spice,Thai,cheap,Chelsea,16:48,0.3,false
+832,Mango Tango,Italian,cheap,Jackson Heights,5:30,0.7,true
+833,The Velvet Fork,Greek,expensive,Park Slope,18:46,4.2,false
+834,Sizzle & Spice,American,expensive,Chelsea,18:16,2.3,false
+835,Saffron Delight,Chinese,medium,Chelsea,12:21,2.5,true
+836,Ocean Blue Grill,Mediterranean,cheap,Greenpoint,8:56,1.2,false
+837,The Hungry Hippo,American,cheap,Harlem,18:39,2.9,false
+838,Whisk & Ladle,American,cheap,Harlem,3:26,4.0,true
+839,Crispy Crust Pizzeria,Chinese,expensive,Jackson Heights,23:22,4.4,false
+840,The Velvet Fork,Greek,medium,Greenpoint,13:49,3.5,false
+841,Sizzle & Spice,Japanese,cheap,Upper East Side,21:24,2.7,true
+842,Whisk & Ladle,Indian,expensive,Upper East Side,8:47,1.8,false
+843,Saffron Delight,Chinese,cheap,Jackson Heights,8:25,2.4,false
+844,Mango Tango,Mexican,expensive,Astoria,6:19,4.0,false
+845,The Velvet Fork,Chinese,cheap,Harlem,3:50,3.9,true
+846,The Cozy Corner,Italian,cheap,Chelsea,18:24,2.7,true
+847,The Cozy Corner,Greek,expensive,Upper East Side,23:12,3.1,true
+848,The Hungry Hippo,Italian,expensive,Hell's Kitchen,22:54,0.1,true
+849,Saffron Delight,Japanese,cheap,Harlem,7:38,0.2,true
+850,Ocean Blue Grill,Indian,medium,Chelsea,4:42,4.3,true
+851,Flamingo Bistro,French,medium,Park Slope,18:09,2.2,false
+852,Sizzle & Spice,Greek,expensive,Harlem,11:11,3.6,false
+853,Whisk & Ladle,American,expensive,Greenpoint,7:33,0.5,true
+854,Saffron Delight,Italian,medium,Greenpoint,16:06,4.1,false
+855,The Hungry Hippo,Italian,cheap,Hell's Kitchen,22:59,4.3,true
+856,Flamingo Bistro,Italian,medium,Harlem,9:22,4.0,false
+857,Flamingo Bistro,Italian,medium,Hell's Kitchen,20:40,2.6,true
+858,The Cozy Corner,French,expensive,Chelsea,11:51,1.5,false
+859,Mango Tango,Chinese,expensive,Astoria,7:46,1.7,false
+860,Whisk & Ladle,Mexican,expensive,Chelsea,3:44,1.2,true
+861,Saffron Delight,Mexican,medium,Bushwick,18:33,4.7,true
+862,The Velvet Fork,Mediterranean,expensive,Harlem,23:13,1.0,false
+863,The Velvet Fork,Japanese,medium,Astoria,15:50,1.9,true
+864,The Velvet Fork,Indian,medium,Park Slope,22:06,3.5,true
+865,Whisk & Ladle,American,medium,Astoria,8:55,3.3,true
+866,The Velvet Fork,Indian,medium,Greenpoint,20:15,2.2,false
+867,Crispy Crust Pizzeria,Greek,expensive,Hell's Kitchen,14:36,1.2,false
+868,Crispy Crust Pizzeria,Italian,expensive,Bushwick,9:42,0.2,false
+869,The Velvet Fork,Italian,expensive,Park Slope,15:25,1.2,false
+870,Flamingo Bistro,Mediterranean,medium,Chelsea,22:12,1.6,false
+871,Ocean Blue Grill,Japanese,expensive,Williamsburg,11:59,2.8,true
+872,Whisk & Ladle,Chinese,medium,Park Slope,0:48,1.2,true
+873,Mango Tango,Chinese,expensive,Upper East Side,16:46,1.9,false
+874,Crispy Crust Pizzeria,Thai,medium,Bushwick,20:56,3.5,true
+875,Saffron Delight,Japanese,medium,Williamsburg,17:46,5.0,false
+876,Whisk & Ladle,Indian,cheap,Greenpoint,10:11,1.0,true
+877,The Hungry Hippo,Mexican,medium,Harlem,0:30,3.1,false
+878,Whisk & Ladle,Japanese,medium,Jackson Heights,20:28,2.3,true
+879,Ocean Blue Grill,Thai,expensive,Hell's Kitchen,10:30,3.2,false
+880,The Cozy Corner,Italian,cheap,Harlem,18:01,4.7,true
+881,Saffron Delight,Indian,medium,Greenpoint,15:03,4.8,true
+882,Flamingo Bistro,Indian,expensive,Greenpoint,7:24,0.4,true
+883,Sizzle & Spice,Chinese,medium,Williamsburg,23:49,2.7,false
+884,Saffron Delight,Thai,medium,Jackson Heights,11:07,2.7,false
+885,Crispy Crust Pizzeria,Indian,expensive,Bushwick,18:25,2.8,true
+886,Ocean Blue Grill,Italian,expensive,Bushwick,13:34,1.3,false
+887,The Hungry Hippo,Mexican,expensive,Chelsea,22:43,2.7,true
+888,The Cozy Corner,Mediterranean,expensive,Chelsea,5:11,3.3,true
+889,Sizzle & Spice,Indian,cheap,Hell's Kitchen,10:08,3.2,false
+890,Flamingo Bistro,Indian,medium,Williamsburg,7:13,3.4,true
+891,Mango Tango,Mediterranean,medium,Astoria,17:24,2.6,true
+892,Saffron Delight,Greek,expensive,Harlem,4:10,2.8,true
+893,The Cozy Corner,Thai,expensive,Greenpoint,2:51,2.2,true
+894,The Hungry Hippo,Thai,cheap,Park Slope,5:08,0.2,false
+895,Flamingo Bistro,Thai,medium,Greenpoint,3:55,3.2,false
+896,The Velvet Fork,Thai,cheap,Hell's Kitchen,14:08,3.4,false
+897,Saffron Delight,Mexican,cheap,Williamsburg,14:22,3.5,false
+898,The Cozy Corner,Indian,cheap,Chelsea,5:13,5.0,true
+899,The Velvet Fork,American,medium,Park Slope,0:57,2.5,true
+900,The Cozy Corner,Chinese,medium,Bushwick,17:00,3.6,false
+901,Sizzle & Spice,French,medium,Park Slope,5:21,2.4,false
+902,Whisk & Ladle,Chinese,expensive,Jackson Heights,10:54,3.9,false
+903,Mango Tango,Japanese,cheap,Hell's Kitchen,14:49,4.4,false
+904,Crispy Crust Pizzeria,Chinese,medium,Greenpoint,22:11,2.1,true
+905,Ocean Blue Grill,Thai,cheap,Chelsea,21:29,2.2,true
+906,Ocean Blue Grill,Indian,cheap,Upper East Side,22:31,1.5,false
+907,The Cozy Corner,Indian,expensive,Jackson Heights,6:33,0.5,true
+908,The Hungry Hippo,Mediterranean,expensive,Williamsburg,3:52,2.9,false
+909,The Cozy Corner,Japanese,medium,Park Slope,15:27,3.9,true
+910,Flamingo Bistro,Greek,expensive,Hell's Kitchen,14:31,0.1,false
+911,Ocean Blue Grill,Greek,medium,Chelsea,18:27,0.4,true
+912,Whisk & Ladle,Greek,expensive,Jackson Heights,16:08,3.7,true
+913,The Velvet Fork,Thai,expensive,Chelsea,14:56,3.6,true
+914,Saffron Delight,Mediterranean,medium,Chelsea,10:32,3.0,false
+915,The Velvet Fork,American,cheap,Greenpoint,9:56,1.3,true
+916,Ocean Blue Grill,American,expensive,Jackson Heights,8:18,3.7,true
+917,Crispy Crust Pizzeria,Italian,expensive,Williamsburg,21:38,2.0,false
+918,Sizzle & Spice,Japanese,expensive,Greenpoint,11:35,1.9,false
+919,Mango Tango,Indian,expensive,Bushwick,7:10,4.8,true
+920,Ocean Blue Grill,Japanese,expensive,Astoria,15:07,2.5,false
+921,Crispy Crust Pizzeria,Indian,medium,Greenpoint,23:38,4.5,true
+922,Sizzle & Spice,Japanese,cheap,Upper East Side,18:04,4.2,true
+923,The Cozy Corner,Japanese,cheap,Hell's Kitchen,15:52,1.3,true
+924,Sizzle & Spice,Greek,expensive,Upper East Side,0:37,0.9,false
+925,Ocean Blue Grill,Greek,cheap,Hell's Kitchen,22:10,2.8,false
+926,Saffron Delight,Italian,expensive,Bushwick,19:30,1.5,false
+927,The Cozy Corner,Indian,cheap,Greenpoint,10:03,1.3,false
+928,Whisk & Ladle,Japanese,medium,Greenpoint,16:54,3.6,false
+929,Sizzle & Spice,French,expensive,Upper East Side,6:39,3.6,false
+930,Crispy Crust Pizzeria,Mexican,cheap,Bushwick,18:14,1.4,false
+931,The Cozy Corner,Thai,expensive,Hell's Kitchen,16:51,1.7,false
+932,The Cozy Corner,Greek,expensive,Williamsburg,12:59,4.6,true
+933,Saffron Delight,Japanese,expensive,Williamsburg,20:26,0.8,false
+934,The Hungry Hippo,Italian,cheap,Park Slope,5:22,0.5,false
+935,The Cozy Corner,Chinese,cheap,Jackson Heights,11:12,0.1,true
+936,Mango Tango,American,expensive,Jackson Heights,14:38,4.4,false
+937,Mango Tango,Mediterranean,medium,Chelsea,21:53,0.6,false
+938,The Cozy Corner,Indian,expensive,Greenpoint,7:13,3.6,false
+939,Whisk & Ladle,Japanese,medium,Upper East Side,4:10,4.4,true
+940,The Hungry Hippo,Italian,cheap,Astoria,1:08,1.5,true
+941,The Cozy Corner,French,cheap,Upper East Side,3:05,4.2,true
+942,Flamingo Bistro,Italian,cheap,Williamsburg,14:20,3.0,false
+943,Flamingo Bistro,Chinese,cheap,Park Slope,11:53,0.8,false
+944,Flamingo Bistro,American,expensive,Bushwick,15:29,1.9,false
+945,Ocean Blue Grill,Chinese,expensive,Jackson Heights,0:58,3.6,false
+946,The Cozy Corner,Japanese,expensive,Bushwick,19:38,4.9,true
+947,Crispy Crust Pizzeria,Greek,expensive,Greenpoint,20:28,2.7,true
+948,The Cozy Corner,American,expensive,Bushwick,7:44,0.7,true
+949,Whisk & Ladle,Mediterranean,expensive,Williamsburg,0:54,2.9,false
+950,Saffron Delight,Chinese,expensive,Park Slope,5:48,4.7,false
+951,The Velvet Fork,Thai,medium,Jackson Heights,14:06,0.1,false
+952,The Cozy Corner,Mediterranean,expensive,Harlem,5:59,1.3,true
+953,The Hungry Hippo,Thai,medium,Williamsburg,10:32,1.2,false
+954,The Velvet Fork,Mediterranean,cheap,Hell's Kitchen,9:02,2.7,true
+955,Sizzle & Spice,Japanese,medium,Astoria,14:05,2.1,true
+956,Saffron Delight,Thai,medium,Harlem,15:40,1.3,false
+957,Whisk & Ladle,Mediterranean,expensive,Chelsea,11:53,0.5,true
+958,Crispy Crust Pizzeria,Japanese,medium,Chelsea,17:51,2.8,true
+959,The Cozy Corner,Italian,cheap,Williamsburg,14:45,4.2,false
+960,Flamingo Bistro,Italian,cheap,Harlem,8:26,4.2,false
+961,Saffron Delight,Italian,cheap,Hell's Kitchen,23:26,4.8,false
+962,Crispy Crust Pizzeria,Chinese,expensive,Harlem,22:18,1.6,false
+963,Mango Tango,Thai,cheap,Bushwick,17:37,4.0,true
+964,The Velvet Fork,Japanese,medium,Bushwick,19:42,3.0,false
+965,Flamingo Bistro,Italian,cheap,Upper East Side,15:38,2.5,false
+966,Sizzle & Spice,French,cheap,Greenpoint,12:53,1.5,false
+967,Flamingo Bistro,Greek,cheap,Bushwick,8:32,1.0,true
+968,Flamingo Bistro,Indian,medium,Jackson Heights,12:39,0.5,true
+969,Whisk & Ladle,Italian,cheap,Greenpoint,15:33,1.2,false
+970,Mango Tango,Greek,cheap,Harlem,9:05,3.7,true
+971,Sizzle & Spice,French,medium,Upper East Side,9:43,4.5,true
+972,Mango Tango,American,expensive,Harlem,17:42,1.8,true
+973,Sizzle & Spice,Mediterranean,cheap,Hell's Kitchen,19:11,0.2,false
+974,Whisk & Ladle,American,medium,Hell's Kitchen,3:11,3.1,true
+975,Flamingo Bistro,Indian,medium,Williamsburg,1:37,2.2,true
+976,The Cozy Corner,Mexican,medium,Astoria,17:56,4.4,true
+977,Flamingo Bistro,Italian,cheap,Chelsea,6:00,3.7,false
+978,Ocean Blue Grill,Indian,expensive,Upper East Side,23:52,2.9,false
+979,The Hungry Hippo,Mediterranean,expensive,Park Slope,8:04,0.7,true
+980,Crispy Crust Pizzeria,Chinese,expensive,Jackson Heights,15:05,1.5,false
+981,Mango Tango,Mexican,medium,Astoria,22:44,0.5,true
+982,The Velvet Fork,Chinese,medium,Bushwick,19:31,1.4,false
+983,Crispy Crust Pizzeria,French,expensive,Jackson Heights,6:40,0.8,true
+984,The Velvet Fork,Italian,medium,Harlem,23:04,3.1,true
+985,Mango Tango,Chinese,medium,Astoria,3:07,0.8,false
+986,Mango Tango,Indian,medium,Jackson Heights,22:35,0.1,false
+987,Ocean Blue Grill,Greek,cheap,Upper East Side,15:31,0.6,false
+988,Whisk & Ladle,Mediterranean,expensive,Hell's Kitchen,19:37,2.5,false
+989,The Hungry Hippo,Mexican,cheap,Greenpoint,5:53,0.3,false
+990,Crispy Crust Pizzeria,Japanese,expensive,Park Slope,23:29,1.3,true
+991,Flamingo Bistro,Italian,medium,Park Slope,23:29,4.1,true
+992,Saffron Delight,Mexican,medium,Jackson Heights,8:06,5.0,false
+993,The Hungry Hippo,Mexican,cheap,Chelsea,12:52,4.2,true
+994,Ocean Blue Grill,Greek,cheap,Harlem,13:42,2.7,true
+995,Mango Tango,Mexican,expensive,Park Slope,1:52,2.4,true
+996,Sizzle & Spice,Chinese,expensive,Park Slope,11:18,2.5,false
+997,The Velvet Fork,Mexican,cheap,Chelsea,18:02,2.7,false
+998,Whisk & Ladle,French,medium,Astoria,10:15,2.2,true
+999,Mango Tango,American,expensive,Williamsburg,6:56,1.3,false
+1000,The Velvet Fork,Thai,medium,Upper East Side,7:42,0.9,false
