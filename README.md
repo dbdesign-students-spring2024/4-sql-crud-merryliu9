@@ -1,14 +1,3 @@
-## Write a report
-
-Update the `README.md` file to include the solutions to all of these instructions. For each part, be sure to include:
-
-- the SQL code to create each of the required tables
-- a link to each of the practice CSV data files in the `data` directory.
-- the SQLite code to import the practice CSV data files into the tables.
-- the SQL queries that solve each of the tasks you were asked to do. Make it clear which task each query is intended to solve - include the task number and text on the line above the SQL code solution.
-
-Make the document well-formatted using Markdown code. Use clear headings and sub-headings and use Markdown's ability to embed code snippets into a document.
-
 # SQL CRUD
 ## Part 1: Restaurant finder
 ### SQL Code to create required tables
